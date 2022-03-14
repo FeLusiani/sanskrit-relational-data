@@ -20,7 +20,7 @@ The `texts.csv` files and `chapters.csv` files have been produced from DCS main 
 
 ## Merged data
 
-The structure of this dataset mirrors the one of the original containing `.conllu` files. Each pair of `words.feather` and `text_lines.feather` is the aggregation of the `.conllu` files that were present in the corresponding directory.
+The structure of the dataset mirrors the one of the original containing `.conllu` files. Each pair of `words.feather` and `text_lines.feather` is the aggregation of the `.conllu` files that were present in the corresponding directory.
 
 The separate `.feather` files can be easily merged together (as shown in `code/sanskrit.ipynb`). The output of this merge is available [here](https://www.kaggle.com/federicolusiani/sanskrit-relational-data).
 
