@@ -26,3 +26,6 @@ The separate `.feather` files can be easily merged together (as shown in `code/s
 
 ## Code
 The code used to parse the original `.conllu` files has been added for reproducibility.
+
+## Acknowledgments
+Credit goes to the creators of the original dataset: Oliver Hellwig: Digital Corpus of Sanskrit (DCS). 2010-2021.
